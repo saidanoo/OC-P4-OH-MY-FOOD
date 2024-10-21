@@ -1,0 +1,11 @@
+code de base du site, le code qui est similaire sur toutes les pages
+
+exemple:
+
+body{}
+
+h1{}
+
+a{}
+
+.titre{}
